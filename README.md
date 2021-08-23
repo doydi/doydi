@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="javaScript:">
-  <img src="https://github-readme-stats.vercel.app/api?username=dosicker&show_icons=true&title_color=fff&icon_color=FF9600&text_color=ddd&bg_color=111" width="50%">
-</a>
-<a href="javaScript:">
+  <img src="https://github-readme-stats.vercel.app/api?username=dosicker&show_icons=true&title_color=fff&icon_color=FF9600&text_color=ddd&bg_color=111">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosicker&layout=compact&langs_count=9&title_color=FF9600&text_color=fff&bg_color=50,111,333" width="350em" alt="dosicker :: Top Langs" />
 </a>
