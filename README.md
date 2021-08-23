@@ -1,5 +1,5 @@
 ## Hello there！ 👋
-### I'm 草东冇门票(dosicker)
+### 草东冇门票(dosicker)
 
 <!--
 **dosicker/dosicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
