@@ -1,4 +1,5 @@
-## Hello World 👋 I'm dosicker
+## Hello there！ 👋
+### I'm 草东冇门票(dosicker)
 
 <!--
 **dosicker/dosicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="javaScript:">
-  <img src="https://github-readme-stats.vercel.app/api?username=dosicker&show_icons=true&title_color=fff&icon_color=FF9600&text_color=ddd&bg_color=111">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosicker&layout=compact&langs_count=9&title_color=FF9600&text_color=fff&bg_color=50,111,333" width="350em" alt="dosicker :: Top Langs" />
-</a>
+<!-- <a href="javaScript:">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dosicker&show_icons=true&title_color=fff&icon_color=FF9600&text_color=ddd&bg_color=111">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosicker&layout=compact&langs_count=9&title_color=FF9600&text_color=fff&bg_color=50,111,333" alt="dosicker :: Top Langs" />
+</a> -->
+
+<p>
+  <a href="javaScript:">
+    <img src="https://github-readme-stats.vercel.app/api?username=dosicker&count_private=true&show_icons=true&bg_color=50,111,333&title_color=fff&text_color=ddd&icon_color=FF9600"/>
+    <img width="425em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosicker&layout=compact&langs_count=9&bg_color=50,111,333&title_color=fff&text_color=ddd&title='My Top Langs'"/>
+  </a>
+</p>
