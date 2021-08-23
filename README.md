@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=dosicker&show_icons=true&title_color=fff&icon_color=FF9600&text_color=ddd&bg_color=111)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosicker&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
