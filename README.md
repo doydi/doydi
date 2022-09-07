@@ -1,5 +1,5 @@
 <!-- ## Hello there！ 👋 -->
-## 语言，是误解的根源。🥴
+## After Awakening Of The Ego，OR STORY，OR TINY......😁
 <!-- ### 草东冇门票(dosicker) -->
 
 <!--
