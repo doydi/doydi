@@ -1,5 +1,5 @@
 <!-- ## Hello there！ 👋 -->
-## "The My Life" program is being build......
+## "The Life" program is being build......
 <!-- ### 草东冇门票(dosicker) -->
 
 <!--
