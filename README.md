@@ -45,8 +45,7 @@
 
 ###
 
-![agxm's github activity graph](https://raw.githubusercontent.com/dosicker/dosicker/output/github-contribution-grid-snake.svg)
-<!-- <img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" />
 
 ###
 
