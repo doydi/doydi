@@ -45,7 +45,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" />
+![BEPb's github activity graph](https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg)
+<!-- <img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
