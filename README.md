@@ -23,9 +23,9 @@ install了不少的package，也造了几个业务型的package，希望大家�
 ### 已点亮的部分技能栏（Technology Stack）
 
 <div align="left">
-  <a href="https://www.npmjs.com" title="npmjs"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" /></a>
+  <a href="https://www.npmjs.com" title="npmjs" style="display: inline-block;width: auto;"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" /></a>
   <img width="12" />
-  <a href="https://classic.yarnpkg.com/en/" title="yarn"><img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo" /></a>
+  <a href="https://classic.yarnpkg.com/en/" title="yarn" style="display: inline-block;width: auto;"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" /></a>
   <img width="12" />
   <a href="https://pnpm.io" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo" /></a>
   <img width="12" />
