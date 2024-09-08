@@ -22,34 +22,34 @@ install了不少的package，也造了几个业务型的package，希望大家�
 
 ### 已点亮的部分技能栏（Technology Stack）
 
-<div align="left">
-  <a href="https://www.npmjs.com" title="npmjs" style="display: inline-block;width: auto;"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" /></a>
+<div align="left" style="display: flex;align-items: center;">
+  <a href="https://www.npmjs.com" title="npmjs" style="display: inline-block;width: auto;" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" /></a>
   <img width="12" />
-  <a href="https://classic.yarnpkg.com/en/" title="yarn" style="display: inline-block;width: auto;"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" /></a>
+  <a href="https://classic.yarnpkg.com/en/" title="yarn" style="display: inline-block;width: auto;" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" /></a>
   <img width="12" />
-  <a href="https://pnpm.io" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo" /></a>
+  <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /></a>
   <img width="12" />
-  <a href="https://cn.vuejs.org" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" /></a>
+  <a href="https://cn.vuejs.org" title="Vue.js" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" /></a>
   <img width="12" />
-  <a href="https://nuxt.com" title="nuxtjs"><img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo" /></a>
+  <a href="https://nuxt.com" title="nuxtjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs logo" /></a>
   <img width="12" />
-  <a href="https://sass-lang.com" title="sass"><img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" /></a>
+  <a href="https://sass-lang.com" title="sass" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=sass" alt="sass logo" /></a>
   <img width="12" />
-  <a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
+  <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
+  <a href="#" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo" />
+  <a href="#" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <a href="#" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
+  <a href="#" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <a href="#" title="linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=linux" alt="linux logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+  <a href="#" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" /></a>
 </div>
 
 <!--
@@ -59,7 +59,7 @@ install了不少的package，也造了几个业务型的package，希望大家�
 ![Unocss](https://img.shields.io/badge/Unocss-333333?logo=unocss&logoColor=fff&style=flat)
 ![Nest](https://img.shields.io/badge/Nest-E0234E?logo=nestjs&logoColor=fff&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
-<a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
+<a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" /></a>
 -->
 
 ### 
