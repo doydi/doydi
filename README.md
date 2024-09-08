@@ -23,53 +23,53 @@ install了不少的package，也造了几个业务型的package，希望大家�
 ### 已点亮的部分技能栏（Technology Stack）
 
 <div align="left" style="display: flex;align-items: center;">
-  <a href="https://www.npmjs.com" title="npmjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" /></a>
-  <img width="12" />
-  <a href="https://classic.yarnpkg.com/en/" title="yarn" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" /></a>
-  <img width="12" />
-  <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /></a>
-  <img width="12" />
-  <a href="https://cn.vuejs.org" title="Vue.js" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" /></a>
-  <img width="12" />
-  <a href="https://nuxt.com" title="nuxtjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs logo" /></a>
-  <img width="12" />
-  <a href="https://sass-lang.com" title="sass" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=sass" alt="sass logo" /></a>
-  <img width="12" />
-  <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" /></a>
-  <img width="12" />
-  <a href="#" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" /></a>
-  <img width="12" />
-  <a href="#" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" /></a>
-  <img width="12" />
-  <a href="#" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" /></a>
-  <img width="12" />
-  <a href="#" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" /></a>
-  <img width="12" />
-  <a href="#" title="linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=linux" alt="linux logo" /></a>
-  <img width="12" />
-  <a href="#" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" /></a>
+  <a href="https://www.npmjs.com" title="npmjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://classic.yarnpkg.com/en/" title="yarn" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://cn.vuejs.org" title="Vue.js" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://nuxt.com" title="nuxtjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://sass-lang.com" title="sass" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=sass" alt="sass logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=linux" alt="linux logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="#" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" style="margin: 0 auto;" /></a>
 </div>
 
 <!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-<a href="https://nodejs.org" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" /></a>
+<a href="https://nodejs.org" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" style="margin: 0 auto;" /></a>
 ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
 ![Unocss](https://img.shields.io/badge/Unocss-333333?logo=unocss&logoColor=fff&style=flat)
 ![Nest](https://img.shields.io/badge/Nest-E0234E?logo=nestjs&logoColor=fff&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
-<a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" /></a>
+<a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" style="margin: 0 auto;" /></a>
 -->
 
 ### 
 
-<img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" style="margin: 0 auto;" />
 
 ###
 
 <br />
 
 <div align="center">
-  你是第 <img src="https://profile-counter.glitch.me/dosicker/count.svg?" />个看到这的靓仔/美女！😮
+  你是第 <img src="https://profile-counter.glitch.me/dosicker/count.svg?" style="margin: 0 auto;" />个看到这的靓仔/美女！😮
 </div>
