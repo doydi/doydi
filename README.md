@@ -71,5 +71,5 @@ install了不少的package，也造了几个业务型的package，希望大家�
 <br />
 
 <div align="center">
-  你是第 <img src="https://profile-counter.glitch.me/dosicker/count.svg?" style="margin: 0 auto;" />个看到这的靓仔/美女！😮
+  你是第 <img src="https://profile-counter.glitch.me/dosicker/count.svg?" style="display: inline;margin: 0 auto;" />个看到这的靓仔/美女！😮
 </div>
