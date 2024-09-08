@@ -2,13 +2,22 @@
 ### 关于我（About me）
 自认为算得上一枚合格的bug FER（不是🤣 <br /> 
 
-对比追求前沿，更追求完美状态的Coding~（没错，对代码有较为严重的洁癖...非常抱歉共事过和正在共事中的同事🙏 <br />
+<!-- 对比追求前沿，更追求完美状态的Coding~（没错，对代码有较为严重的洁癖...非常抱歉共事过和正在共事中的同事🙏 <br /> -->
 
 主力Vue，目前正在极力拓展nodejs，以早日点亮下面的nodejs icon！！！ <br />
 
 热爱计算鸡，热爱前端，喜欢捣腾计算鸡内的一切...即使没倒腾出属于自己的一个工具（我尽量加强自己！🤡 <br />
 
-install了不少的package，也造了几个业务型的package，希望大家在生活里面，也能有build出自己的Good Life~
+
+在[博客](https://agxm.fun)这里会记录我所遇到或正在进行的一些工作或技术上的事情，问题的思考以及日常生活等。
+
+博客风格类似[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。
+
+如果你有什么好的想法，或者想与我交流的问题意见/合作，可以👇
+
+### 👇 👇 👇
+
+<!-- install了不少的package，也造了几个业务型的package，希望大家在生活里面，也能有build出自己的Good Life~ -->
 
 <!-- “The Life” program is being build… -->
 
