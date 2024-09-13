@@ -71,11 +71,10 @@
 <a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" style="margin: 0 auto;" /></a>
 -->
 
-### 
 
 <img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" style="margin: 0 auto;" />
 
-###
+
 
 <br />
 
