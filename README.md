@@ -29,7 +29,7 @@
 **Tencent WeChat：** d3hpZF8xcjhzbThtam4yajcxMg==（Base64） <br />
 
 
-### 已点亮的部分技能栏（Technology Stack）
+### 已点亮的技能栏（Technology Stack）
 
 <div align="left" style="display: flex;align-items: center;">
   <a href="https://www.npmjs.com" title="npmjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" style="margin: 0 auto;" /></a>
