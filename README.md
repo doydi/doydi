@@ -17,9 +17,8 @@
 
 ### 👇 👇 👇
 
-<!-- install了不少的package，也造了几个业务型的package，希望大家在生活里面，也能有build出自己的Good Life~ -->
-
-<!-- “The Life” program is being build… -->
+<!-- install了不少的package，也造了几个业务型的package，希望大家在生活里面，也能有build出自己的Good Life~
+“The Life” program is being build… -->
 
 
 ### 联系方式（Find me）
@@ -39,6 +38,8 @@
   <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://www.typescriptlang.org" title="TypeScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
   <a href="https://cn.vuejs.org" title="Vue.js" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
@@ -71,10 +72,7 @@
 <a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" style="margin: 0 auto;" /></a>
 -->
 
-
 <img src="https://raw.githubusercontent.com/dosicker/dosicker/output/snake.svg" alt="Snake animation" style="margin: 0 auto;" />
-
-
 
 <br />
 
