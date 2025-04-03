@@ -72,5 +72,5 @@
 <br />
 
 <div align="center" style="display: flex;justify-content: center;">
-  <p style="display: flex;align-items: center;margin: 0;">你是第&nbsp;<img src="https://profile-counter.glitch.me/dosicker/count.svg?" style="display: inline;margin: 0 auto;" />个看到这的靓仔/美女！😮</p>
+  <p style="display: flex;align-items: center;margin: 0;">你是第&nbsp;<img src="https://profile-counter.glitch.me/dosicker/count.svg?" style="display: inline;margin: 0 auto;" />个看到这的靓仔/妹！😮</p>
 </div>
