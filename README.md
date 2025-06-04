@@ -17,8 +17,7 @@
 
 
 ### 联系方式（Find me）
-<!-- [PC Talk](http://wpa.qq.com/msgrd?v=3&uin=1990703009&site=qq&menu=yes) -->
-**Tencent QQ：** [1990703009](//mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
+**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
 **Tencent WeChat：** cd-digital <br />
 **X（Twitter）：** [@dd_lcd](https://x.com/dd_lcd) <br />
 **Gmail：** <dosicker@gmail.com> <br />
