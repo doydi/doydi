@@ -20,9 +20,9 @@
 **E-mail：** <email@adiovo.cc> <br />
 
 
-### 已点亮的技能栏（Tech Stack）
+<!-- ### 已点亮的技能栏（Tech Stack） -->
 <!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
-<div align="left" style="display: flex;align-items: center;">
+<!-- <div align="left" style="display: flex;align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" style="margin: 0 auto;" /></a>
@@ -46,19 +46,17 @@
   <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://webpack.js.org/" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" style="margin: 0 auto;" /></a>
-  <!-- GitHub 访问模式下的Readme内使用skillicons.dev下的icons单行最大显示数量为12个，需要兼容换行的样式 -->
   <img width="6" style="margin: 0 auto;" />
   <a href="https://gulpjs.com/" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://www.docker.com/" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://www.jenkins.io/" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" style="margin: 0 auto;" /></a>
-  <!-- GitHub 全屏下的Readme内使用skillicons.dev下的icons单行最大显示数量为15个，需要兼容换行的样式 -->
   <img width="6" style="margin: 0 auto;" />
   <a href="https://www.debian.org/" title="Debian Linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=debian" alt="debian logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://nginx.org/" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" style="margin: 0 auto;" /></a>
-</div>
+</div> -->
 
 <!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
