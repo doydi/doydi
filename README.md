@@ -14,7 +14,7 @@
 
 
 ### 联系方式（Find me）
-**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=adiovo.us.kg) <br />
+**Tencent QQ：** [1731451766](mqqwpa://im/chat?chat_type=wpa&uin=1731451766&version=1&src_type=web&web_src=adiovo.us.kg) <br />
 **Tencent WeChat：** adiovocn <br />
 **X（Twitter）：** [@adi_ovo](https://x.com/adi_ovo) <br />
 **E-mail：** <email@adiovo.us.kg> <br />
