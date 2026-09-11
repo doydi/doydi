@@ -14,14 +14,14 @@
 
 
 ### 联系方式（Find me）
-**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=adiovo.cc) <br />
+**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=adiovo.us.kg) <br />
 **Tencent WeChat：** adiovocn <br />
 **X（Twitter）：** [@adi_ovo](https://x.com/adi_ovo) <br />
-**E-mail：** <email@adiovo.cc> <br />
+**E-mail：** <email@adiovo.us.kg> <br />
 
 
 <!-- ### 已点亮的技能栏（Tech Stack） -->
-<!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
+<!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在个人博客站的样式能保持一致~ -->
 <!-- <div align="left" style="display: flex;align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
